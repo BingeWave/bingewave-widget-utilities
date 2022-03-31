@@ -1,0 +1,7 @@
+#{{namespace}}_start_recording {
+    color:red;
+  }
+  
+.{{namespace}}-pointer {
+    cursor: pointer;
+}

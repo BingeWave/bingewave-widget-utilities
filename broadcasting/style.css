@@ -1,0 +1,7 @@
+.{{namespace}}-is-broadcasting{
+    color: red;
+}
+
+.{{namespace}}-pointer {
+  cursor: pointer;
+}
